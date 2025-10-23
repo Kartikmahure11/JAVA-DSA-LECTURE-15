@@ -1,5 +1,5 @@
   public class QuestionsOnBitManipulation {
-  public static void main(String[] args) {
+   static void main(String[] args) {
         printBits(53);
         int res1 = clearLSB(53, 4);
         printBits(res1);
