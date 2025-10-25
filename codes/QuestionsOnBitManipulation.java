@@ -1,4 +1,4 @@
-  public class QuestionsOnBitManipulation {
+  class QuestionsOnBitManipulation {
     static void main(String[] args) {
         printBits(53);
         int res1 = clearLSB(53, 4);
